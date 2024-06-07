@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "描述"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "个人日记本"
+    },
+    {
+      "name": "mima",
+      "value": "密码："
+    },
+    {
+      "name": "mimaText",
+      "value": "请输入密码"
+    },
+    {
+      "name": "button",
+      "value": "确认"
+    },
+    {
+      "name": "list",
+      "value": "日记列表"
+    },
+    {
+      "name": "titleText",
+      "value": "请输入标题"
+    },
+    {
+      "name": "contentText",
+      "value": "请输入笔记"
+    },
+    {
+      "name": "search",
+      "value": "快速搜索关键字"
+    },
+    {
+      "name": "dialogTitle",
+      "value": "密码设置"
+    },
+    {
+      "name": "dialogMessage",
+      "value": "首次登录，请设置4-9位的密码！！！"
+    },
+    {
+      "name": "dialogMessage2",
+      "value": "密码长度应为4-9位！！！"
+    }
+  ]
+}

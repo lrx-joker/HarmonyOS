@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "PersonalDiary"
+    },
+    {
+      "name": "mima",
+      "value": "password"
+    },
+    {
+      "name": "mimaText",
+      "value": "please enter a password"
+    },
+    {
+      "name": "button",
+      "value": "OK"
+    },
+    {
+      "name": "list",
+      "value": "DiaryList"
+    },
+    {
+      "name": "titleText",
+      "value": "Please enter a title"
+    },
+    {
+      "name": "contentText",
+      "value": "please write a diary"
+    },
+    {
+      "name": "search",
+      "value": "please enter a keyword"
+    },
+    {
+      "name": "dialogTitle",
+      "value": "Set Password"
+    },
+    {
+      "name": "dialogMessage",
+      "value": "For the first login, please set a 4-9 digit password!!"
+    },
+    {
+      "name": "dialogMessage2",
+      "value": "The password should be 4-9 digits long!!"
+    }
+  ]
+}
